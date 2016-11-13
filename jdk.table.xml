@@ -1,0 +1,74 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.3.3 (C:\Python33\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.3.3" />
+      <homePath value="C:\Python33\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Python33/DLLs" />
+            <root type="simple" url="file://C:/Python33/Lib" />
+            <root type="simple" url="file://C:/Python33" />
+            <root type="simple" url="file://C:/Python33/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1571908645" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 (C:\Users\Paloma\AppData\Local\Programs\Python\Python35-32\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\Paloma\AppData\Local\Programs\Python\Python35-32\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/706345316" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 (C:\Users\Paloma\Miniconda3\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\Paloma\Miniconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Miniconda3/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/Miniconda3/Lib" />
+            <root type="simple" url="file://$USER_HOME$/Miniconda3" />
+            <root type="simple" url="file://$USER_HOME$/Miniconda3/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Miniconda3/Lib/site-packages/win32" />
+            <root type="simple" url="file://$USER_HOME$/Miniconda3/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://$USER_HOME$/Miniconda3/Lib/site-packages/pythonwin" />
+            <root type="simple" url="jar://$USER_HOME$/Miniconda3/Lib/site-packages/setuptools-27.2.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/1929553244" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
